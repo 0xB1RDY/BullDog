@@ -20,9 +20,11 @@ This is made in Python, so you must have the Python language installed.<br />
 To use BullDog simply follow the instructions below:<br />
 <br />
 Install the needed package(s)
-- pip install -r requirements.txt<br />
-
+```
+pip install -r requirements.txt<br />
+```
 Finally, run main.py
-- python main.py<br />
-
+```
+python main.py<br />
+```
 Based on your Python configuration, it may be Python3 or your latest version in the command.
