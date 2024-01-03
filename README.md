@@ -21,10 +21,10 @@ To use BullDog simply follow the instructions below:<br />
 <br />
 Install the needed package(s)
 ```
-pip install -r requirements.txt<br />
+pip install -r requirements.txt
 ```
 Finally, run main.py
 ```
-python main.py<br />
+python main.py
 ```
 Based on your Python configuration, it may be Python3 or your latest version in the command.
