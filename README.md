@@ -15,7 +15,7 @@ Decryption Process:<br />
 - If the seed is incorrect, it will return a junk cipher that doesnt mean anything.<br />
 <br />
 
-# How to use it
+# Installation
 This is made in Python, so you must have the Python language installed.<br />
 To use BullDog simply follow the instructions below:<br />
 <br />
